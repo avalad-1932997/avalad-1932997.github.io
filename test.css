@@ -1,0 +1,65 @@
+#Header{
+    border-style: double;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    text-align: center;
+    background-color: lightgray;
+    box-shadow: 10px 10px;
+    text-decoration: underline;
+}
+
+#Header h1{
+    font-size: 60px;
+    text-shadow: 2px 2px;
+    color:#4B2E83;
+    font-weight: bold;
+    font-family: "Passion One";
+    background-color: lightgray;
+}
+
+#LeftNav{
+    width: 400px;
+    padding-bottom: 8px;
+    margin-bottom: 0px;
+    border: solid 8px black;
+    text-align: center;
+    float: left;
+    background-color: lightgray;
+    writing-mode: vertical-rl;
+}
+
+body {
+    background-image: url('marble.jpg')
+}
+
+p {
+    color: #4B2E83;
+    font-family: "ariel";
+    font-weight: bold;
+    background-color: lightgray;
+}
+
+#Content{
+    width: 700px;
+    padding: 15px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 8px black;
+    text-align: center;
+    background-color: lightgray;
+}
+
+#Footer{
+    text-align: center;
+    border: solid 1px black;
+    outline-style: solid;
+    outline-color: #4B2E83;
+    background-color: lightgray;  
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;  
+}
